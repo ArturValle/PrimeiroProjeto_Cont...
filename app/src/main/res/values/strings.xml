@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PrimeiroProjeto</string>
+    <string name="calculadora">Calculator</string>
+    <string name="seu_peso">Weight</string>
+    <string name="sua_altura">Height</string>
+    <string name="botao_calcular">CALCULATE</string>
+    <string name="botao_limpar">CLEAN</string>
+    <string name="label_exemplo_1_7">Exemplo: 1.7</string>
+    <string name="label_titulo_resultado">Your IMC is:</string>
+    <string name="label_rodape">Developed by MIM</string>
+    <string name="_20">20</string>
+    <string name="peso_ideal">Peso Ideal</string>
+    <string name="todo">TODO</string>
+</resources>
